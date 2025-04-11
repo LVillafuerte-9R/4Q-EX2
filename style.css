@@ -1,0 +1,10 @@
+body {
+	background-image: url(https://i.pinimg.com/736x/e9/ac/2e/e9ac2eda5916aef9b906766af49b97bd.jpg);
+	background-size: cover;
+}
+
+.custom-card {
+  background-color: #A5BFCC;
+  border-radius: 15px;
+  border: 1px solid #ccc;
+}
